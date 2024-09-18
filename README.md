@@ -2,6 +2,8 @@
 
 *Developed between October and November 2023 at Politecnico di Milano*
 
+![image](https://github.com/user-attachments/assets/1e845a90-562a-4c1d-9f2f-9957e0ed007f)
+
 ## Project Overview
 This project was part of the **Artificial Neural Networks and Deep Learning** course. The goal was to classify images of leaves into two categories based on their health status, making it a binary classification problem.
 
