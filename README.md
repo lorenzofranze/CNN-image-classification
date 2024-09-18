@@ -11,6 +11,20 @@ The dataset consists of images of leaves categorized into two classes indicating
 
 You can download the dataset from [this link](https://drive.google.com/drive/u/0/folders/152B-_69uFDqnDyBIbS0gEhjlwHmqEKeB).
 
+Dataset Details:
+- Image size: 96x96
+- Color space: RGB
+- File Format: npz
+- Number of classes: 2
+- Classes:
+0: "healthy"
+1: "unhealthy"
+- Dataset Structure:
+  - training: containing the 'public_data.npz' file. The file contains the following items:
+    - 'data': numpy array of shape 5100x96x96x3, containing the RGB images.
+    - 'data': 3-dimensional numpy array of shape 5200x96x96x3, containing the RGB images.
+    - 'labels': 1-dimensional numpy array of shape 5200 with values in {'healthy', 'unhealthy'}
+
 
 ## Methodology
 - **Model Selection:** Various pretrained models were tested, with **EfficientNetV2B0** showing the best performance.
