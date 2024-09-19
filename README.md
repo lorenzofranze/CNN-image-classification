@@ -27,7 +27,7 @@ Dataset Details:
 
 
 ## Methodology
-- **Model Selection:** Various pretrained models were tested, with **EfficientNetV2B0** showing the best performance.
+- **Model Selection:** Various pretrained models were tested, with **EfficientNetV2M** showing the best performance.
 - **Data augmenation** Different transformations applied on the images in order to increase the sample size and improve model performances.
 - **Fine-tuning:** The chosen model was fine-tuned for the specific task and evaluated on the training set.
 
