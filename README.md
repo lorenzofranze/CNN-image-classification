@@ -7,7 +7,7 @@
 ## Project Overview
 This project was part of the **Artificial Neural Networks and Deep Learning** course. The goal was to classify images of leaves into two categories based on their health status, making it a binary classification problem. The purpose of the project was to learn the use of Convolutional neural networks.
 
-Have a look at [report.pdf](https://github.com/lorenzofranze/CNN-image-classification/blob/main/report.pdf) for a detailed explainantion
+Have a look at [report.pdf](https://github.com/lorenzofranze/CNN-image-classification/blob/main/report.pdf) for a detailed explanation.
 
 
 ## Dataset
